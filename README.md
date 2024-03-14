@@ -1,6 +1,8 @@
 # PaletteGenerator
 
 ```
+#include "PaletteGenerator.hpp"
+
 CRGBPalette16 nextPalette;
 PaletteGenerator *paletteGen;
 paletteGen = new PaletteGenerator();
